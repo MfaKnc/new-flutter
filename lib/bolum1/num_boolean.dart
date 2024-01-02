@@ -13,7 +13,7 @@ void main(List<String> args) {
   int kilo = 82.9.toInt();
   print(kilo);
 
-  var sayi2 = 9;
+  //var sayi2 = 9;
 
   int numara;
   numara = 8;
